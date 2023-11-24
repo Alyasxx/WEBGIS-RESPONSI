@@ -93,6 +93,7 @@
               Maps
             </a>
             <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="titik_ternak.php">Peta Sebaran Titik</a></li>
               <li><a class="dropdown-item" href="peta_domba.html">Peta Peternakan Domba</a></li>
               <li><a class="dropdown-item" href="peta_itik.html">Peta Peternakan Itik</a></li>
               <li><a class="dropdown-item" href="peta_ayam.html">Peta Peternakan Ayam</a></li>
@@ -145,5 +146,4 @@
   </footer>
   </script>
 </body>
-
 </html>
